@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador</title>
+    <link rel="stylesheet" href="/estilos/style.css">
+    <link rel="stylesheet" href="/estilos/tabla.css">
+</head>
+
+<body>
+   <div class="search-container">
+  <form onsubmit="return false;">
+    <h1>Búsqueda Por Rut </h1> <br> <h3>Personas Inhabilitadas<br> Para Trabajar Con Menores de Edad</h3>
+    <input type="text" id="search-bar" placeholder="Ingresa un rut: ej 9999999-9">
+    <button class="btn-buscar" onclick="buscarRut()">Buscar</button>
+  </form>
+
+  <table class="tabla-resultado">
+    <thead>
+      <tr>
+        <th>RUT</th>
+        <th>Nombre</th>
+        <th>Juzgado Origen</th>
+         <th>Rit</th>
+        <th>Fecha Fallo</th>
+        <th>Inhabilidad</th>
+      </tr>
+    </thead>
+    <tbody id="tabla-body">
+    
+    </tbody>
+  </table>
+</div>
+
+
+  <script src="/js/datos.js"></script>
+  <script src="/js/script.js"></script>
+
+</body>
+
+</html>
