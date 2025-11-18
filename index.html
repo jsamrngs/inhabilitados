@@ -11,26 +11,14 @@
 <body>
    <div class="search-container">
   <form onsubmit="return false;">
-    <h1>Búsqueda Por Rut </h1> <br> <h3>Personas Inhabilitadas<br> Para Trabajar Con Menores de Edad</h3>
+    <h1>Búsqueda Por Rut </h1> 
+    <h3>Personas Inhabilitadas<br> Para Trabajar Con Menores de Edad</h3>
     <input type="text" id="search-bar" placeholder="Ingresa un rut: ej 9999999-9">
     <button class="btn-buscar" onclick="buscarRut()">Buscar</button>
   </form>
 
-  <table class="tabla-resultado">
-    <thead>
-      <tr>
-        <th>RUT</th>
-        <th>Nombre</th>
-        <th>Juzgado Origen</th>
-         <th>Rit</th>
-        <th>Fecha Fallo</th>
-        <th>Inhabilidad</th>
-      </tr>
-    </thead>
-    <tbody id="tabla-body">
-    
-    </tbody>
-  </table>
+  
+  <div id="result"></div>
 </div>
 
 
@@ -38,6 +26,5 @@
   <script src="js/script.js"></script>
 
 </body>
-
 
 </html>
