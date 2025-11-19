@@ -338,7 +338,7 @@ const usuarios = [
   {nombre: "DARKO FERNANDO ABARCA FLORES", rut: "17058454-6", juzgado: "Jdo. Gtía de Rengo", rit: "3574-2021", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
   {nombre: "JUAN IGNACIO COLGUAN URIBE", rut: "7247976-9", juzgado: "Jdo. Gtía de Valdivia", rit: "4341-2020", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
   {nombre: "DAVID ALFONSO ESPINOZA TORRES", rut: "16550947-3", juzgado: "Jdo. Gtía de Temuco", rit: "4388-2021", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
-  {nombre: "JUAN PABLO OLMEDO PARRAGUEZ",rut: "12663767-5", juzgado: "14° Jdo. Gtía de Santiago", rit:"10578-2017, fechaFallo: "14-7-2022", inhabilidad: "Perpetua"},
+  {nombre: "JUAN PABLO OLMEDO PARRAGUEZ",rut: "12663767-5", juzgado: "14° Jdo. Gtía de Santiago", rit:"10578-2017", fechaFallo: "14-7-2022", inhabilidad: "Perpetua"},
   {nombre: "RICHARD ANSELMO QUINTANA VEGA", rut: "12703349-8", juzgado: "Jdo. de Garantía de Coronel", rit: "467-2019", fechaFallo: "24-6-2022", inhabilidad: "Perpetua"},
   {nombre: "PATRICIO ANTONIO AVENDAÑO ROJAS", rut: "16195897-8", juzgado: "Juzgado de Letras y Gtía. de Curepto", rit: "133-2021", fechaFallo: "4-8-2022", inhabilidad: "Perpetua"},
   {nombre: "PEDRO PABLO HUENTECONA MARILLÁN", rut: "15736218-0", juzgado: "6° Juzgado de Garantía de Santiago", rit: "8716-2019", fechaFallo: "5-8-2022", inhabilidad: "Perpetua"},
@@ -350,6 +350,7 @@ const usuarios = [
   {nombre: "MARCOS ANDRÉS CUADRA MONTERO", rut: "17885317-1", juzgado: "Jdo. Gtía de Puerto Montt", rit: "820-2020", fechaFallo: "26-8-2022", inhabilidad: "Perpetua"},
   {nombre: "JUAN ANDRÉS LORCA GALDÁMEZ", rut: "6854868-3", juzgado: "Jdo. Gtía de Osorno", rit: "7763-2020", fechaFallo: "3-6-2022", inhabilidad: "Perpetua"}
 ];
+
 
 
 
