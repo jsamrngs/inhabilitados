@@ -103,7 +103,7 @@ const usuarios = [
   {nombre: "José Darío Jaramillo Matus", rut: "16111907-5", juzgado: "Juzgado de Garantía de Osorno", rit: "324-2024", fechaFallo: "24-07-2025", inhabilidad: "Perpetua"},
   {nombre: "Luis Andrés Muñoz Placencia", rut: "13385298-0", juzgado: "Juzgado de Letras y Garantía de Laja", rit: "264-2022", fechaFallo: "10-09-2025", inhabilidad: "Perpetua"},
   {nombre: "Dilan Jeron Alfaro Beltrame", rut: "19966636-3", juzgado: "Juzgado de Garantía de Nueva Imperial", rit: "354-2024", fechaFallo: "08-09-2025", inhabilidad: "Perpetua"},
-  {nombre: "Daniel Ignacio Bravo Riveros", rut: "182.473.901", juzgado: "14° Juzgado de Garantía de Santiago", rit: "160-2021", fechaFallo: "15-09-2025", inhabilidad: "Perpetua"},
+  {nombre: "Daniel Ignacio Bravo Riveros", rut: "182473901", juzgado: "14° Juzgado de Garantía de Santiago", rit: "160-2021", fechaFallo: "15-09-2025", inhabilidad: "Perpetua"},
   {nombre: "Miguel Ángel Valenzuela González", rut: "7257489-3", juzgado: "Juzgado de Garantía de San Bernardo", rit: "5116-2022", fechaFallo: "14-07-2025", inhabilidad: "Perpetua"},
   {nombre: "Francisco Bilibardo Soto Sánchez", rut: "15283753-4", juzgado: "Juzgado de Garantía de Puerto Varas", rit: "466-2023", fechaFallo: "19-06-2025", inhabilidad: "Perpetua"},
   {nombre: "Francisco Javier Carvajal Jiménez", rut: "18255854-0", juzgado: "Juzgado de Garantía de Quillota", rit: "2517-2023", fechaFallo: "08-09-2025", inhabilidad: "Perpetua"},
@@ -350,6 +350,7 @@ const usuarios = [
   {nombre: "MARCOS ANDRÉS CUADRA MONTERO", rut: "17885317-1", juzgado: "Jdo. Gtía de Puerto Montt", rit: "820-2020", fechaFallo: "26-8-2022", inhabilidad: "Perpetua"},
   {nombre: "JUAN ANDRÉS LORCA GALDÁMEZ", rut: "6854868-3", juzgado: "Jdo. Gtía de Osorno", rit: "7763-2020", fechaFallo: "3-6-2022", inhabilidad: "Perpetua"}
 ];
+
 
 
 
