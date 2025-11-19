@@ -337,5 +337,18 @@ const usuarios = [
   {nombre: "JUAN CARLOS SILVA JORQUERA", rut: "8.783.095-0", juzgado: "11° Jdo. Gtía. de Santiago", rit: "2472-2020", fechaFallo: "18-8-2022", inhabilidad: "Perpetua"},
   {nombre: "DARKO FERNANDO ABARCA FLORES", rut: "17.058.454-6", juzgado: "Jdo. Gtía de Rengo", rit: "3574-2021", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
   {nombre: "JUAN IGNACIO COLGUAN URIBE", rut: "7.247.976-9", juzgado: "Jdo. Gtía de Valdivia", rit: "4341-2020", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
-  {nombre: "DAVID ALFONSO ESPINOZA TORRES", rut: "16.550.947-3", juzgado: "Jdo. Gtía de Temuco", rit: "4388-2021", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"}
+  {nombre: "DAVID ALFONSO ESPINOZA TORRES", rut: "16.550.947-3", juzgado: "Jdo. Gtía de Temuco", rit: "4388-2021", fechaFallo: "10-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "JUAN PABLO OLMEDO PARRAGUEZ",rut: "12.663.767-5", juzgado: "14° Jdo. Gtía de Santiago", rit:"10578-2017, fechaFallo: "14-7-2022", inhabilidad: "Perpetua"},
+  {nombre: "RICHARD ANSELMO QUINTANA VEGA", rut: "12.703.349-8", juzgado: "Jdo. de Garantía de Coronel", rit: "467-2019", fechaFallo: "24-6-2022", inhabilidad: "Perpetua"},
+  {nombre: "PATRICIO ANTONIO AVENDAÑO ROJAS", rut: "16.195.897-8", juzgado: "Juzgado de Letras y Gtía. de Curepto", rit: "133-2021", fechaFallo: "4-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "PEDRO PABLO HUENTECONA MARILLÁN", rut: "15.736.218-0", juzgado: "6° Juzgado de Garantía de Santiago", rit: "8716-2019", fechaFallo: "5-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "LEONCIO OSVALDO INZUNZA CAUCAU", rut: "15.895.581-4", juzgado: "Jdo. de Letras, Gtía. y Familia de Quellón", rit: "912-2019", fechaFallo: "12-1-2022", inhabilidad: "Perpetua"},
+  {nombre: "DANIEL OCTAVIO COLIVORO RUIZ", rut: "10.357.850-1", juzgado: "Jdo. de Letras, Gtía. y Familia de Quellón", rit: "406-2021", fechaFallo: "23-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "ANTONIO ANDRÉS CUELLO CORTÉS", rut: "16.750.718-6", juzgado: "Jdo. Gtía de San Antonio", rit: "5298-2021", fechaFallo: "3-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "MATÍAS EDUARDO MUÑOZ ARRIAGADA", rut: "17.000.930-4", juzgado: "10° Jdo. Gtía. de Santiago", rit: "2073-2020", fechaFallo: "3-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "ERIC DANILO TORRES PÉREZ", rut: "17.409.863-8", juzgado: "Jdo. Gtía de Vicuña", rit: "68-2022", fechaFallo: "20-6-2022", inhabilidad: "Perpetua"},
+  {nombre: "MARCOS ANDRÉS CUADRA MONTERO", rut: "17.885.317-1", juzgado: "Jdo. Gtía de Puerto Montt", rit: "820-2020", fechaFallo: "26-8-2022", inhabilidad: "Perpetua"},
+  {nombre: "JUAN ANDRÉS LORCA GALDÁMEZ", rut: "6.854.868-3", juzgado: "Jdo. Gtía de Osorno", rit: "7763-2020", fechaFallo: "3-6-2022", inhabilidad: "Perpetua"}
 ];
+
+
