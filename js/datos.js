@@ -348,8 +348,38 @@ const usuarios = [
   {nombre: "MATÍAS EDUARDO MUÑOZ ARRIAGADA", rut: "17000930-4", juzgado: "10° Jdo. Gtía. de Santiago", rit: "2073-2020", fechaFallo: "3-8-2022", inhabilidad: "Perpetua"},
   {nombre: "ERIC DANILO TORRES PÉREZ", rut: "17409863-8", juzgado: "Jdo. Gtía de Vicuña", rit: "68-2022", fechaFallo: "20-6-2022", inhabilidad: "Perpetua"},
   {nombre: "MARCOS ANDRÉS CUADRA MONTERO", rut: "17885317-1", juzgado: "Jdo. Gtía de Puerto Montt", rit: "820-2020", fechaFallo: "26-8-2022", inhabilidad: "Perpetua"},
-  {nombre: "JUAN ANDRÉS LORCA GALDÁMEZ", rut: "6854868-3", juzgado: "Jdo. Gtía de Osorno", rit: "7763-2020", fechaFallo: "3-6-2022", inhabilidad: "Perpetua"}
+  {nombre: "JUAN ANDRÉS LORCA GALDÁMEZ", rut: "6854868-3", juzgado: "Jdo. Gtía de Osorno", rit: "7763-2020", fechaFallo: "3-6-2022", inhabilidad: "Perpetua"},
+  {nombre: "Cristopher Alfredo Trejo Pastén", rut: "17657989-7", juzgado: "Juzgado de Garantía de Osorno", rit: "4126-2023", fechaFallo: "12-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Sergio Enrique Riffo Santander", rut: "7960936-6", juzgado: "Juzgado de Garantía de Coronel", rit: "239-2024", fechaFallo: "03-04-2025", inhabilidad: "Perpetua"},
+  {nombre: "Carlos Mauricio Contreras Cruz", rut: "11678564-1", juzgado: "Juzgado de Garantía de Coronel", rit: "1654-2023", fechaFallo: "26-02-2025", inhabilidad: "Perpetua"},
+  {nombre: "Germán Edelio Álvarez Muñoz", rut: "12078918-K", juzgado: "Juzgado de Letras, Garantía y Familia de Carahue", rit: "1137-2022", fechaFallo: "21-02-2025", inhabilidad: "Perpetua"},
+  {nombre: "Manuel Francisco Pérez González", rut: "12502106-9", juzgado: "Juzgado de Garantía de Puente Alto", rit: "5861-2022", fechaFallo: "27-03-2025", inhabilidad: "Perpetua"},
+  {nombre: "Miguel Ángel Ortiz Barrios", rut: "9245294-8", juzgado: "Juzgado de Garantía de San Bernardo", rit: "7411-2022", fechaFallo: "20-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Juan Pablo Berrios Molina", rut: "17565232-9", juzgado: "Juzgado de Garantía de Puente Alto", rit: "127-2020", fechaFallo: "03-06-2025", inhabilidad: "Perpetua"},
+  {nombre: "Jonathan Alexis Benjamín Villa Molines", rut: "16010840-1", juzgado: "Juzgado de Garantía de Yungay", rit: "760-2023", fechaFallo: "21-02-2025", inhabilidad: "Perpetua"},
+  {nombre: "Kevin Ignacio Serey Zepeda", rut: "19735520-4", juzgado: "Juzgado de Garantía de Quilpué", rit: "3948-2023", fechaFallo: "31-01-2025", inhabilidad: "Perpetua"},
+  {nombre: "Winston Gabriel Faúndez Aguilar", rut: "9637958-7", juzgado: "Juzgado de Letras y Garantía de Los Muermos", rit: "222-2023", fechaFallo: "19-03-2025", inhabilidad: "Perpetua"},
+  {nombre: "José Ramón Jiménez San Martín", rut: "9984100-1", juzgado: "Juzgado de Garantía de Concepción", rit: "5007-2023", fechaFallo: "19-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Abraham Isaac Mora Calvio", rut: "20993958-4", juzgado: "Juzgado de Garantía de San Bernardo", rit: "3568-2023", fechaFallo: "20-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "José Alberto Rojas Paredes", rut: "11524324-1", juzgado: "Juzgado de Garantía de San Bernardo", rit: "13494-2019", fechaFallo: "05-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Augusto Enrique Villarroel Gutiérrez", rut: "17690338-4", juzgado: "9° Juzgado de Garantía de Santiago", rit: "7863-2022", fechaFallo: "20-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Jaime Ismael Escobar Box", rut: "7459428-K", juzgado: "Juzgado de Garantía de Molina", rit: "348-2024", fechaFallo: "20-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Ricardo Segundo Curillán Eyzaguirre", rut: "20766558-4", juzgado: "Juzgado de Garantía de Nueva Imperial", rit: "2062-2020", fechaFallo: "13-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Jorge Leonardo Ingles Torres", rut: "16317952-0", juzgado: "Juzgado de Garantía de Nueva Imperial", rit: "1542-2024", fechaFallo: "16-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Héctor Mauricio Aburti Cristi", rut: "12530035-9", juzgado: "Juzgado de Garantía de Cañete", rit: "603-2021", fechaFallo: "22-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Leonardo de los Ángeles Tapia Meneses", rut: "17439947-6", juzgado: "Juzgado de Garantía de Arica", rit: "5302-2023", fechaFallo: "03-04-2025", inhabilidad: "Perpetua"},
+  {nombre: "José Aladino Díaz Leal", rut: "7865415-5", juzgado: "Juzgado de Garantía de La Ligua", rit: "175-2021", fechaFallo: "09-05-2025", inhabilidad: "Perpetua"},
+  {nombre: "Mauricio Enrique López Cerda", rut: "14373174-K", juzgado: "Juzgado de Garantía de Talcahuano", rit: "3270-2022", fechaFallo: "25-04-2025", inhabilidad: "Perpetua"},
+  {nombre: "Luis Florencio Contreras Arellano", rut: "17636951-5", juzgado: "9° Juzgado de Garantía de Santiago", rit: "7380-2024", fechaFallo: "06-02-2025", inhabilidad: "Perpetua"},
+  {nombre: "Walther Andrés Quilodrán Castro", rut: "9054801-8", juzgado: "8° Juzgado de Garantía de Santiago", rit: "3419-2023", fechaFallo: "07-02-2025", inhabilidad: "5 años y 1 día"},
+  {nombre: "Gabriel Antonio Ibáñez Fierro", rut: "13622881-1", juzgado: "Juzgado de Garantía de Talcahuano", rit: "3282-2022", fechaFallo: "01-06-2025", inhabilidad: "Perpetua"},
+  {nombre: "Cristian Evangelios Garrido Rodríguez", rut: "14911937-K", juzgado: "Juzgado de Garantía de Limache", rit: "791-2020", fechaFallo: "27-01-2025", inhabilidad: "Perpetua"},
+  {nombre: "Danny Mauricio Vargas Díaz", rut: "13028037-4", juzgado: "Juzgado de Letras y Garantía de Los Muermos", rit: "277-2024", fechaFallo: "03-04-2025", inhabilidad: "Perpetua"},
+  {nombre: "Arturo Andrés Calderón González", rut: "10902830-4", juzgado: "Juzgado de Garantía de Limache", rit: "73-2023", fechaFallo: "14-02-2025", inhabilidad: "Perpetua"},
+  {nombre: "Héctor Orlando Iturrieta Pérez", rut: "15766213-9", juzgado: "Juzgado de Garantía de Limache", rit: "2026-2023", fechaFallo: "25-10-2024", inhabilidad: "Perpetua"},
+  {nombre: "Pablo Javier Calderón González", rut: "10905110-1", juzgado: "Juzgado de Garantía de Limache", rit: "888-2022", fechaFallo: "30-04-2024", inhabilidad: "Perpetua"}
 ];
+
 
 
 
