@@ -378,8 +378,9 @@ const usuarios = [
   {nombre: "Arturo Andrés Calderón González", rut: "10902830-4", juzgado: "Juzgado de Garantía de Limache", rit: "73-2023", fechaFallo: "14-02-2025", inhabilidad: "Perpetua"},
   {nombre: "Héctor Orlando Iturrieta Pérez", rut: "15766213-9", juzgado: "Juzgado de Garantía de Limache", rit: "2026-2023", fechaFallo: "25-10-2024", inhabilidad: "Perpetua"},
   {nombre: "Pablo Javier Calderón González", rut: "10905110-1", juzgado: "Juzgado de Garantía de Limache", rit: "888-2022", fechaFallo: "30-04-2024", inhabilidad: "Perpetua"},
-  {nombre:"Juan Carlos Galdámes Cáceres", rut:"10.845.533-0", juzgado:"No Especifica...",rit:"No Especifica...",fechaFallo:"10.845.533-0", inhabilidad:"Perpetua"}
+  {nombre:"Juan Carlos Galdámes Cáceres", rut:"10845533-0", juzgado:"No Especifica...",rit:"No Especifica...",fechaFallo:"10.845.533-0", inhabilidad:"Perpetua"}
 ];
+
 
 
 
