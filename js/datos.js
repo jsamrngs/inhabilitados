@@ -378,7 +378,24 @@ const usuarios = [
   {nombre: "Arturo Andrés Calderón González", rut: "10902830-4", juzgado: "Juzgado de Garantía de Limache", rit: "73-2023", fechaFallo: "14-02-2025", inhabilidad: "Perpetua"},
   {nombre: "Héctor Orlando Iturrieta Pérez", rut: "15766213-9", juzgado: "Juzgado de Garantía de Limache", rit: "2026-2023", fechaFallo: "25-10-2024", inhabilidad: "Perpetua"},
   {nombre: "Pablo Javier Calderón González", rut: "10905110-1", juzgado: "Juzgado de Garantía de Limache", rit: "888-2022", fechaFallo: "30-04-2024", inhabilidad: "Perpetua"},
-  {nombre:"Juan Carlos Galdámes Cáceres", rut:"10845533-0", juzgado:"No Especifica...",rit:"No Especifica...",fechaFallo:"10.845.533-0", inhabilidad:"Perpetua"}
+  {nombre:"Juan Carlos Galdámes Cáceres", rut:"10845533-0", juzgado:"No Especifica...",rit:"No Especifica...",fechaFallo:"10.845.533-0", inhabilidad:"Perpetua"},
+  {nombre:"René Marcelo Becas Mora", rut:"15549991-5", juzgado:"Juzgado de Garantía de Temuco", rit: "8809-2019", fechaFallo:"07-01-2026",inhabilidad:"Perpetua"},
+  {nombre:"Miguel Fernando Gutiérrez Espinoza", rut: "17910533-0", juzgado: "Juzgado de Garantía de Villarrica", rit:"1370-2025", fechaFallo:"15-12-2025", inhabilidad:"Perpetua"},
+  {nombre:"Cristian Luis Valenzuela Casivillo", rut:"14222309-0", juzgado:"Juzgado de Garantía de Temuco", rit:"5845-2022", fechaFallo:"10-11-2025", inhabilidad:"Perpetua"},
+  { nombre:"Abel Omar Cifuentes Chavarría", rut:"6193529-0", juzgado:"Juzgado de Garantía de Concepción", rit:"2253-2025", fechaFallo:"08-01-2026", inhabilidad:"Perpetua"},
+  {nombre:"Sergio Alex Luna Catalán", rut:"10214373-6", juzgado:"Juzgado de Garantía de Talcahuano", rit:"626-2022", fechaFallo:"27-10-2025", inhabilidad:"Perpetua"},
+  {nombre:"Esteban Orlando Contreras Yáñez","rut": "8557772-7", juzgado:"Juzgado de Garantía de Villa Alemana", rit: "203-2024", fechaFallo:"08-01-2026", inhabilidad:"Perpetua"},
+  {nombre:"Máximo Jociel Vielma Gómez", rut:"21026542-2", juzgado:"Juzgado de Garantía de Angol", rit:"996-2025", fechaFallo:"06-01-2026", inhabilidad:"Perpetua"},
+  {nombre:"Isaac Antonio Valdés Guerrero", rut:"18034508-6", juzgado:"Juzgado de Garantía de Quilpué", rit:"2799-2024", fechaFallo:"27-11-2025", inhabilidad:"Perpetua"},
+  {nombre:"Robert Alex Silva Muñoz", rut:"11683791-9", juzgado:"Juzgado de Garantía de San Bernardo", rit:"8038-2023", fechaFallo:"20-10-2025", inhabilidad: "Perpetua"},
+  {nombre:"Boris Andrés Sagredo Vargas", rut:"18026539-2", juzgado:"Juzgado de Garantía de San Bernardo", rit:"3144-2024", fechaFallo:"03-10-2025", inhabilidad:"Perpetua"},
+  {nombre:"Ergas Ricardo Ormeño Soto", rut:"11306703-9", juzgado:"Juzgado de Letras y Garantía de Los Muermos", rit:"45-2025", fechaFallo:"15-01-2026", inhabilidad:"Perpetua"},
+  {nombre:"Felipe Andrés Zamorano Baeza", rut:"19243651-6", juzgado:"Juzgado de Garantía de San Bernardo", rit:"2207-2023", fechaFallo:"14-07-2025", inhabilidad:"Perpetua"},
+  {nombre:"Fabián Esteban Rojas Sepúlveda", rut: "20289744-4", juzgado:"Juzgado de Garantía de San Bernardo", rit:"6320-2022", fechaFallo:"25-07-2025", inhabilidad:"Perpetua"},
+  {nombre:"Leandro Miguel Cáceres Bolívar", rut:"17521373-2", juzgado:"Juzgado de Garantía de Rancagua", rit:"821-2025", fechaFallo:"21-11-2025", inhabilidad:"Perpetua"},
+  {nombre:"José Bernardino Collinao Campos", rut:"12290321-4", juzgado:"Juzgado de Garantía de Rancagua", rit:"8599-2024", fechaFallo:"23-01-2026", inhabilidad:"Perpetua"},
+  {nombre:"Joseph Kabir Monje Catalán", rut:"17501545-0", juzgado: "Juzgado de Garantía de Rancagua", rit: "93-2025", fechaFallo: "06-11-2025", inhabilidad:"Perpetua"},
+  {nombre:"José Heriberto Cabello Vargas", rut:"11397779-5", juzgado:"Juzgado de Garantía de Rancagua", rit: "1352-2021", fechaFall":"20-09-2025", inhabilidad:"Perpetua"}
 ];
 
 
