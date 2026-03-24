@@ -395,7 +395,7 @@ const usuarios = [
   {nombre:"Leandro Miguel Cáceres Bolívar", rut:"17521373-2", juzgado:"Juzgado de Garantía de Rancagua", rit:"821-2025", fechaFallo:"21-11-2025", inhabilidad:"Perpetua"},
   {nombre:"José Bernardino Collinao Campos", rut:"12290321-4", juzgado:"Juzgado de Garantía de Rancagua", rit:"8599-2024", fechaFallo:"23-01-2026", inhabilidad:"Perpetua"},
   {nombre:"Joseph Kabir Monje Catalán", rut:"17501545-0", juzgado: "Juzgado de Garantía de Rancagua", rit: "93-2025", fechaFallo: "06-11-2025", inhabilidad:"Perpetua"},
-  {nombre:"José Heriberto Cabello Vargas", rut:"11397779-5", juzgado:"Juzgado de Garantía de Rancagua", rit: "1352-2021", fechaFall":"20-09-2025", inhabilidad:"Perpetua"}
+  {nombre:"José Heriberto Cabello Vargas", rut:"11397779-5", juzgado:"Juzgado de Garantía de Rancagua", rit: "1352-2021", fechaFallo:"20-09-2025", inhabilidad:"Perpetua"}
 ];
 
 
